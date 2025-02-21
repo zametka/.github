@@ -4,7 +4,7 @@ Welcome to the Zametka.com organization on GitHub! 👋
 
 ## About Zametka ✍️
 
-Zametka.com is as a minimalist blogging tool where you can:
+[Zametka.com](https://zametka.com) is as a minimalist blogging tool where you can:
 
 *   **Create Posts:** Write blog posts, notes, articles, or any other text-based content. ✒️
 *   **Custom URLs:** Give each post a unique, shareable URL (e.g., `zametka.com/@yourusername/your-post-title`). 🔗
