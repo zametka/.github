@@ -1,6 +1,6 @@
 # Zametka.com 📝
 
-Welcome to the Zametka.com organization on GitHub! 👋
+Welcome to the [Zametka.com](https://zametka.com) organization on GitHub! 👋
 
 ## About Zametka ✍️
 
@@ -11,7 +11,7 @@ Welcome to the Zametka.com organization on GitHub! 👋
 *   **Public or Private:** Choose whether your posts are publicly visible or private to your account. 👁️‍🗨️ / 🔒
 *   **User Accounts:** Create a personal account with a username and profile. 👤
 
-We're building Zametka.com to be a distraction-free space for writing and sharing ideas.
+We're building [Zametka.com](https://zametka.com) to be a distraction-free space for writing and sharing ideas.
 
 ## Stay Updated 📣
 
