@@ -15,7 +15,7 @@ We're building [Zametka.com](https://zametka.com) to be a distraction-free space
 
 ## Stay Updated 📣
 
-Follow our official blog at [zametka.com/@blog](https://zametka.com/@blog) for news, updates, and writing tips!
+Follow our official blog at [zametka.com/@blog](https://zametka.com/@blog) for updates.
 
 ## Contact 📧
 
