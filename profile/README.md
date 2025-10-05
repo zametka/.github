@@ -19,7 +19,7 @@ Follow our official blog at [zametka.com/@blog](https://zametka.com/@blog) for u
 
 ## Contact 📧
 
-For general inquiries, please contact us at [hello@zametka.com](mailto:hello@zametka.com).
+For general inquiries, please contact us at [mail@zametka.com](mailto:mail@zametka.com).
 
 For legal matters, including copyright infringement notices, please contact [legal@zametka.com](mailto:legal@zametka.com).
 
